@@ -1,0 +1,12 @@
+name: agile2023
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - numpy
+  - campo
+  - lue>=0.3.7
+  - matplotlib-base
+  - jupyterlab
+  - ffmpeg
