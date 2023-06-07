@@ -13,7 +13,7 @@ More information will be given in the [Agile 2023 workshop](https://agile-online
 
 You need a Google account to run the notebook.
 
- 1. Open the notebook using the following link:
+ 1. Open the notebook using the following link: [Colab notebook](https://colab.research.google.com/drive/1CulW5WUEbzsvqkiuGtiuehf4vq8OYlkA?usp=sharing)
 
  2. Create a copy of the notebook in your own Google Drive by using the *Copy to Drive* button.
 
